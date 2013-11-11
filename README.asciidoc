@@ -3,7 +3,7 @@
 Este repositório será utilizado na capacitação do Asciidoc.
 
 Para gerar o livro abra http://producao.virtual.ufpb.br/github.html[esta página]
-e informe o *link do seu capítulo* não seção *Gerar PDF de Capítulo*.
+e informe o *link do seu capítulo* na seção *Gerar PDF de Capítulo* (em baixo).
 
 Cada capítulo será designado a uma pessoa como se segue:
 
