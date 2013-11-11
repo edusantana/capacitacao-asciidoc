@@ -39,6 +39,7 @@ Cada capítulo será designado a uma pessoa como se segue:
 . link:livro/capitulos/cap30.asc[Livre - cap30.asc]
 
 Para conhecer o processo de produção consulte 
-https://github.com/edusantana/producao-computacao-ead-ufpb.
+a https://gist.github.com/edusantana/5984048[web conferência] e o
+https://github.com/edusantana/producao-computacao-ead-ufpb[manual da produção].
 
 
