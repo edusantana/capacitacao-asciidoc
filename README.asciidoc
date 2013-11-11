@@ -8,7 +8,35 @@ e informe o *link do seu capítulo* não seção *Gerar PDF de Capítulo*.
 Cada capítulo será designado a uma pessoa como se segue:
 
 . link:livro/capitulos/cap1.asc[Jorge Hermida - cap1.asc]
-
+. link:livro/capitulos/cap2.asc[Livre - cap2.asc]
+. link:livro/capitulos/cap3.asc[Livre - cap3.asc]
+. link:livro/capitulos/cap4.asc[Livre - cap4.asc]
+. link:livro/capitulos/cap5.asc[Livre - cap5.asc]
+. link:livro/capitulos/cap6.asc[Livre - cap6.asc]
+. link:livro/capitulos/cap7.asc[Livre - cap7.asc]
+. link:livro/capitulos/cap8.asc[Livre - cap8.asc]
+. link:livro/capitulos/cap9.asc[Livre - cap9.asc]
+. link:livro/capitulos/cap10.asc[Livre - cap10.asc]
+. link:livro/capitulos/cap11.asc[Livre - cap11.asc]
+. link:livro/capitulos/cap12.asc[Livre - cap12.asc]
+. link:livro/capitulos/cap13.asc[Livre - cap13.asc]
+. link:livro/capitulos/cap14.asc[Livre - cap14.asc]
+. link:livro/capitulos/cap15.asc[Livre - cap15.asc]
+. link:livro/capitulos/cap16.asc[Livre - cap16.asc]
+. link:livro/capitulos/cap17.asc[Livre - cap17.asc]
+. link:livro/capitulos/cap18.asc[Livre - cap18.asc]
+. link:livro/capitulos/cap19.asc[Livre - cap19.asc]
+. link:livro/capitulos/cap20.asc[Livre - cap20.asc]
+. link:livro/capitulos/cap21.asc[Livre - cap21.asc]
+. link:livro/capitulos/cap22.asc[Livre - cap22.asc]
+. link:livro/capitulos/cap23.asc[Livre - cap23.asc]
+. link:livro/capitulos/cap24.asc[Livre - cap24.asc]
+. link:livro/capitulos/cap25.asc[Livre - cap25.asc]
+. link:livro/capitulos/cap26.asc[Livre - cap26.asc]
+. link:livro/capitulos/cap27.asc[Livre - cap27.asc]
+. link:livro/capitulos/cap28.asc[Livre - cap28.asc]
+. link:livro/capitulos/cap29.asc[Livre - cap29.asc]
+. link:livro/capitulos/cap30.asc[Livre - cap30.asc]
 
 Para conhecer o processo de produção consulte 
 https://github.com/edusantana/producao-computacao-ead-ufpb.
