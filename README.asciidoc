@@ -1,6 +1,14 @@
 == Livro de disciplina
 
-Este repositório contém um livro de uma disciplina.
+Este repositório será utilizado na capacitação do Asciidoc.
+
+Para gerar o livro abra http://producao.virtual.ufpb.br/github.html[esta página]
+e informe seu capítulo não seção *Gerar PDF de Capítulo*.
+
+Cada capítulo será designado a uma pessoa como se segue:
+
+. link:livro/capitulos/cap1.asc[Jorge Hermida - cap1]
+
 
 Para conhecer o seu processo de produção consulte 
 https://github.com/edusantana/producao-computacao-ead-ufpb.
