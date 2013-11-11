@@ -13,7 +13,7 @@ Cada capítulo será designado a uma pessoa como se segue:
 . link:livro/capitulos/cap4.asc[cap4.asc - Valéria]
 . link:livro/capitulos/cap5.asc[cap5.asc - José Luis]
 . link:livro/capitulos/cap6.asc[cap6.asc - Rildo]
-. link:livro/capitulos/cap7.asc[cap7.asc - Elizabeth]
+. link:livro/capitulos/cap7.asc[cap7.asc - Maria Elizabet]
 . link:livro/capitulos/cap8.asc[cap8.asc - Livre]
 . link:livro/capitulos/cap9.asc[cap9.asc - Livre]
 . link:livro/capitulos/cap10.asc[cap10.asc - Livre]
