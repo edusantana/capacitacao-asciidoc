@@ -8,12 +8,12 @@ e informe o *link do seu capítulo* na seção `Gerar PDF de Capítulo`.
 Cada capítulo será designado a uma pessoa como se segue:
 
 . link:livro/capitulos/cap1.asc[cap1.asc - Jorge Hermida]
-. link:livro/capitulos/cap2.asc[cap2.asc - Livre]
-. link:livro/capitulos/cap3.asc[cap3.asc - Livre]
-. link:livro/capitulos/cap4.asc[cap4.asc - Livre]
-. link:livro/capitulos/cap5.asc[cap5.asc - Livre]
-. link:livro/capitulos/cap6.asc[cap6.asc - Livre]
-. link:livro/capitulos/cap7.asc[cap7.asc - Livre]
+. link:livro/capitulos/cap2.asc[cap2.asc - Raoni]
+. link:livro/capitulos/cap3.asc[cap3.asc - Andrea]
+. link:livro/capitulos/cap4.asc[cap4.asc - Valéria]
+. link:livro/capitulos/cap5.asc[cap5.asc - José Luis]
+. link:livro/capitulos/cap6.asc[cap6.asc - Rildo]
+. link:livro/capitulos/cap7.asc[cap7.asc - Elizabeth]
 . link:livro/capitulos/cap8.asc[cap8.asc - Livre]
 . link:livro/capitulos/cap9.asc[cap9.asc - Livre]
 . link:livro/capitulos/cap10.asc[cap10.asc - Livre]
